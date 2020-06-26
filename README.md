@@ -1,5 +1,7 @@
 # Fuzzy Trader API
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Fuzzy%20Trader&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fhugo-marcelo%2Ffuzzy-trader-api%2Fmaster%2FInsomnia.json)
+
 ## Deploy
 
 - [https://fuzzy-trader-api.herokuapp.com/](https://fuzzy-trader-api.herokuapp.com/)
