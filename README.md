@@ -34,7 +34,7 @@ $ git clone https://github.com/hugo-marcelo/fuzzy-trader-api && cd fuzzy-trader-
 ```sh
 $ npm install
 $ npm run test
-$ npm start
+$ npm dev
 ```
 
 2. Utlizando yarn
@@ -42,7 +42,7 @@ $ npm start
 ```sh
 $ yarn
 $ yarn test
-$ yarn start
+$ yarn dev
 ```
 
 Made by Hugo Marcelo 👋 [Veja meu linkedin](https://www.linkedin.com/in/hugo-marcelo-dev/)
