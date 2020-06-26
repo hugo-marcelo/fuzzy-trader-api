@@ -2,6 +2,8 @@
 
 ## Deploy
 
+- [https://fuzzy-trader-api.herokuapp.com/](https://fuzzy-trader-api.herokuapp.com/)
+
 ## 💼 Sobre o projeto
 
 Requisitos:
